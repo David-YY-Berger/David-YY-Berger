@@ -1,6 +1,6 @@
-Hi, I’m @David-YY-Berger
-I'm currently studying at Mechon Lev in Jerusalem, Israel
-My email is davidberger2448@gmail.com
+Shalom! My name is @David-YY-Berger <br />
+I'm currently studying Computer Science Mechon Lev in Jerusalem, Israel <br />
+My email is davidberger2448@gmail.com <br />
 
 <!---
 David-YY-Berger/David-YY-Berger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
