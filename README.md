@@ -1,5 +1,5 @@
 Shalom! My name is @David-YY-Berger <br />
-I'm currently studying Computer Science Mechon Lev in Jerusalem, Israel <br />
+I'm currently studying Computer Science at Mechon Lev (JCT) in Jerusalem, Israel <br />
 My email is davidberger2448@gmail.com <br />
 
 <!---
