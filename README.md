@@ -4,7 +4,7 @@
 - 🌱 I'm a Student Computer Science at Lev Academic Institute (Jerusalem): 
 
 - 🌱 I’m currently studying **Computer Science at Lev Academic Institute (Jerusalem) **
-I have studied: Operating Systems, Data Security, 
+- I have studied: Operating Systems, Data Security, 
 Artificial Intelligence & Data Science, Data Structures & Algorithms, 
 Trusted Execution Environment, Computer Communications, 
 Principles of Software Engineering, Logical & Functional Programming
