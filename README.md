@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is David Berger</h1>
 <h3 align="center">Seeking Part Time (Student) position in Software Development</h3>
 
-- 📚 I’m currently studying **Computer Science at Lev Academic Institute (Jerusalem) **
+- 📚 I’m finishing my 2nd year in **Computer Science at Lev Academic Institute (Jerusalem)**
 - 🌱 I have studied: Operating Systems, Data Security, Artificial Intelligence & Data Science, Data Structures & Algorithms, Trusted Execution Environment, Computer Communications, Principles of Software Engineering, Logical & Functional Programming
 
 
