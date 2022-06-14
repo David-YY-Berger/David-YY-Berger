@@ -5,10 +5,10 @@
 - 🌱 I have studied: Operating Systems, Data Security, Artificial Intelligence & Data Science, Data Structures & Algorithms, Trusted Execution Environment, Computer Communications, Principles of Software Engineering, Logical & Functional Programming
 
 
-- 💬 Ask me about **my projects!**
-- https://github.com/David-YY-Berger/WPF-Project
-- https://github.com/David-YY-Berger/Password-Vault-Chrome-Extension
-- https://github.com/David-YY-Berger/Creating-A-Graphic-Image
+- 💬 Ask me about **my projects!**  
+https://github.com/David-YY-Berger/WPF-Project  
+https://github.com/David-YY-Berger/Password-Vault-Chrome-Extension  
+https://github.com/David-YY-Berger/Creating-A-Graphic-Image  
 
 - 📫 How to reach me **davidberger2448@gmail.com**
 
