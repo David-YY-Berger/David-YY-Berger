@@ -2,7 +2,10 @@
 <h3 align="center">Seeking Part Time (Student) position in Software Development</h3>
 
 - 📚 I’m finishing my 2nd year in **Computer Science at Lev Academic Institute (Jerusalem College of Technology)**
-- 🌱 I have studied: Operating Systems, Data Security, Artificial Intelligence & Data Science, Data Structures & Algorithms, Trusted Execution Environment, Computer Communications, Principles of Software Engineering, Logical & Functional Programming
+- 🌱 I have studied: 
+Operating Systems, 
+Data Security, 
+Artificial Intelligence & Data Science, Data Structures & Algorithms, Trusted Execution Environment, Computer Communications, Principles of Software Engineering, Logical & Functional Programming
 
 
 - 💬 Ask me about **my projects!**  
