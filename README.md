@@ -9,8 +9,8 @@ Artificial Intelligence & Data Science, Data Structures & Algorithms, UNIX Syste
 
 
 - 💬 Ask me about **my projects!**  
-https://github.com/David-YY-Berger/MySevev-Android-App-
-https://github.com/David-YY-Berger/WPF-Project  
+https://github.com/David-YY-Berger/MySevev-Android-App-    
+https://github.com/David-YY-Berger/WPF-Project   
 https://github.com/David-YY-Berger/Password-Vault-Chrome-Extension  
 https://github.com/David-YY-Berger/Creating-A-Graphic-Image  
 
