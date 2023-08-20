@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, My name is David Berger</h1>
-<h3 align="center">Seeking Part Time (Student) position in Software Development</h3>
+<h3 align="center">Seeking Full Time position in Software Development</h3>
 
 - 📚 I’m finishing my last year in **Computer Science at Lev Academic Institute (Jerusalem College of Technology)**
-- 🌱 Coursework includes: 
-Operating Systems, Cyber Security, Data Bases, Artificial Intelligence & Data Science, UNIX Systems, 3-tier and Server-Client Architecture, Compilers, Computer Communications, Principles of Software Engineering, Logical & Functional Programming, Data Structures & Algorithms, Trusted Execution Environment
-
+- 🌱 I love Udemy Courses and am currently studying a Mega Course in Python
 
 - 💬 Ask me about **my projects!**  
 https://github.com/David-YY-Berger/MySevev-Android-App-    
