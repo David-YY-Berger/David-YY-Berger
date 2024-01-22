@@ -20,5 +20,5 @@ https://github.com/David-YY-Berger/TCL-Compiler-5783
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
--	Java, Selenium, Xpath, Jenkins (Ex Libris) <br>
+-	Java, Selenium, Xpath (Ex Libris) <br>
 -	Python - Flask, Django, Pandas, Matplotlib, Seaborn (Udemy Course) <br> 
