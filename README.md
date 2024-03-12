@@ -5,9 +5,9 @@
 - 🌱 I love Udemy Courses and am currently studying a Mega Course in Python
 
 - 💬 Ask me about **my projects!**       
-https://github.com/David-YY-Berger/RefactoringAssistant
-https://github.com/David-YY-Berger/MySevev-Android-App-    
-https://github.com/David-YY-Berger/WPF-Project   
+https://github.com/David-YY-Berger/RefactoringAssistant    
+https://github.com/David-YY-Berger/MySevev-Android-App-     
+https://github.com/David-YY-Berger/WPF-Project    
 https://github.com/David-YY-Berger/Password-Vault-Chrome-Extension  
 https://github.com/David-YY-Berger/Creating-A-Graphic-Image  
 https://github.com/David-YY-Berger/Database-Project-5783  
