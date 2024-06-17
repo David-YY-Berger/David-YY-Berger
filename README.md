@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, My name is David Berger</h1>
-<h3 align="center">Seeking Full Time position in Software Development</h3>
+<h3 align="center">Software Engineer at Ex Libris</h3>
 
-- 📚 I’m finishing my last year in **Computer Science at Lev Academic Institute (Jerusalem College of Technology)**
-- 🌱 I love Udemy Courses and am currently studying a Mega Course in Python
+<!-- - 📚 I’m finishing my last year in **Computer Science at Lev Academic Institute (Jerusalem College of Technology)** -->
+<!-- - 🌱 I love Udemy Courses and am currently studying a Mega Course in Python -->
 
 - 💬 Ask me about **my projects!**       
 https://github.com/David-YY-Berger/RefactoringAssistant    
@@ -20,6 +20,7 @@ https://github.com/David-YY-Berger/TCL-Compiler-5783
 <a href="https://linkedin.com/in/david-yy-berger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-yy-berger/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
--	Java, Selenium, Xpath (Ex Libris) <br>
--	Python - Flask, Django, Pandas, Matplotlib, Seaborn (Udemy Course) <br> 
+<!-- <h3 align="left">Languages and Tools:</h3> 
+ -	Java <br>
+ -	Angular <br>
+ -	Python <br>-	Python <br> -->
