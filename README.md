@@ -4,8 +4,8 @@
 <!-- - 📚 I’m finishing my last year in **Computer Science at Lev Academic Institute (Jerusalem College of Technology)** -->
 <!-- - 🌱 I love Udemy Courses and am currently studying a Mega Course in Python -->
 
-- 💬 Ask me about **my projects!**
-https://github.com/David-YY-Berger/ChatBlatt
+- 💬 Ask me about **my projects!**    
+https://github.com/David-YY-Berger/ChatBlatt    
 https://github.com/David-YY-Berger/RefactoringAssistant    
 https://github.com/David-YY-Berger/MySevev-Android-App-     
 https://github.com/David-YY-Berger/WPF-Project    
